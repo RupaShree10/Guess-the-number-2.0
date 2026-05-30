@@ -86,6 +86,10 @@ Congratulations Rupa! You guessed the correct number in 3 attempts! Your score i
 * Database-backed leaderboard
 * Online leaderboard
 
+## Screenshot
+
+![Game Screenshot](screenshot.png)
+
 ## Author
 
 **Rupa Shree**
