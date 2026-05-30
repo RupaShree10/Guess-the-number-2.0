@@ -88,7 +88,7 @@ Congratulations Rupa! You guessed the correct number in 3 attempts! Your score i
 
 ## Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Screenshot.png)
 
 ## Author
 
